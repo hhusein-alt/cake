@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mars",
+        "price": 15.6,
+        "size": 9,
+        "ingredients": "Mars, Milk, Extra powder"
+    },
+    {
+        "name": "Honey Cake",
+        "price": 17.9,
+        "size": 12,
+        "ingredients": "Sugar, Milk, Love, Egg, Honey, Chocolate"
+    }
+]
